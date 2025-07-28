@@ -4,3 +4,4 @@ langchain-groq
 streamlit
 duckduckgo-search
 arxiv
+wikipedia
